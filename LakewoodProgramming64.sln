@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakewoodProgramming64.Web", "LakewoodProgramming64.Web\LakewoodProgramming64.Web.csproj", "{B15742A0-1F7D-46C5-A0CC-424F78A9B0BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakewoodProgramming64.Data", "LakewoodProgramming64.Data\LakewoodProgramming64.Data.csproj", "{9614C755-05B6-4949-AFD4-8A86E69020CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15742A0-1F7D-46C5-A0CC-424F78A9B0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15742A0-1F7D-46C5-A0CC-424F78A9B0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15742A0-1F7D-46C5-A0CC-424F78A9B0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15742A0-1F7D-46C5-A0CC-424F78A9B0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9614C755-05B6-4949-AFD4-8A86E69020CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9614C755-05B6-4949-AFD4-8A86E69020CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9614C755-05B6-4949-AFD4-8A86E69020CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9614C755-05B6-4949-AFD4-8A86E69020CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851C3B37-6DC5-46D7-917E-4B43702E370B}
+	EndGlobalSection
+EndGlobal
